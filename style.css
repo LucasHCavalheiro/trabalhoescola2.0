@@ -1,0 +1,41 @@
+.body{
+    text-align: center;
+    color: white;
+    background-color: blue;
+}
+
+.titulo {
+    text-align: center;
+    font-family: monospace;
+    color: white;
+}
+
+.subtitulo {
+    text-align: center;
+    font-family: monospace; 
+    color: white;
+}
+
+.fotocidade { 
+    text-align: center;
+}
+
+.letreirocidade {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+
+footer {
+    width: auto;
+    height: auto;
+    background-color: rgb(12, 33, 122);
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+.bandeiracidade {
+    height: auto;
+}
